@@ -7,6 +7,6 @@ The project's purpose is to explore how the NYC's subway use and the weather on 
 
 The main points of this project are: 
 - Data collection from internet;
-- Data Analysis.
+- Data Analysis;
 - Data manipulation and creation of simple graphics with Pandas.
    
